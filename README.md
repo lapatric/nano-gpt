@@ -1,0 +1,3 @@
+# NanoGPT
+
+This repo follows [Andrej Karpathy's tutorial](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7) on how to build a GPT-2 model from scratch. The model is trained on the [Tiny Shakespeare dataset](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) and can be used to generate text in the style of Shakespeare.
